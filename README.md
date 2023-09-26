@@ -18,4 +18,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
 
