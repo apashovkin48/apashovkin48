@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
 </div>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=apashovkin48&theme=dark&background=000000" width="80" height="80" /> &nbsp;
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=apashovkin48&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Стек технологий:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80" /> &nbsp;
