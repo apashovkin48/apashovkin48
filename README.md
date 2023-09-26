@@ -6,6 +6,7 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
 </div>
 
+### :fire: My Stats :
 
 ## Стек технологий:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80" /> &nbsp;
