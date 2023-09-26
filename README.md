@@ -19,4 +19,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Universal_robots_logo.svg" title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Universal_robots_logo.svg" title="UR" alt="UR" width="80" height="80"/>&nbsp;
+<img src="https://github.com/apashovkin48/apashovkin48/blob/main/kw.svg" title="UR" alt="UR" width="80" height="80"/>&nbsp;
