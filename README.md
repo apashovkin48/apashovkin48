@@ -6,7 +6,8 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
 </div>
 
-### :fire: My Stats :
+### :fire: Статистика репозитория :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=apashovkin48)](https://git.io/streak-stats)
 
 ## Стек технологий:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80" /> &nbsp;
