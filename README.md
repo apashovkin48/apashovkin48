@@ -7,7 +7,7 @@
 </div>
 
 ### :fire: Статистика репозитория :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=apashovkin48)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=apashovkin48&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Стек технологий:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80" /> &nbsp;
