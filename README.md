@@ -1,11 +1,10 @@
 ### Привет, меня зовут Андрей и я Backend разработчик 👋
 
 Занимаюсь программированием, оживляю роботов и автоматизирую производства 🤖
-Telegram - @apashovkin48
-[Telegram](https://t.me/apashovkin48)
+
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://t.me/apashovkin48"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram"></a>
 </p>
 
 <div id="header" align="center">
