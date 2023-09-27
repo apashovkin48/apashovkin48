@@ -4,7 +4,10 @@
 
 
 <p align="center">
-<a href="https://t.me/apashovkin48"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="80" height="80" alt="Telegram"></a>
+<a href="https://t.me/apashovkin48">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="80" height="80" alt="Telegram">
+  <img src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg#/media/File:Telegram_text_logo.svg" height="80" alt="Telegram">
+</a>
 </p>
 
 <div id="header" align="center">
