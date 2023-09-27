@@ -2,6 +2,7 @@
 
 Занимаюсь программированием, оживляю роботов и автоматизирую производства 🤖
 Telegram - @apashovkin48
+[Telegram](https://t.me/apashovkin48)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
