@@ -28,4 +28,5 @@ Telegram - @apashovkin48
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Universal_robots_logo.svg" title="UR" alt="UR" width="80" height="80"/>&nbsp;
-<img src="https://github.com/apashovkin48/apashovkin48/blob/main/kw.svg" title="UR" alt="UR" width="160" height="80"/>&nbsp;
+<img src="https://github.com/apashovkin48/apashovkin48/blob/main/kw.svg" title="KW" alt="KW" width="160" height="80"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Profinet_logo.svg" title="KW" alt="KW" width="160" height="80"/>&nbsp;
